@@ -1,4 +1,4 @@
-package com.geekfed.barcodescanner;
+package com.geekfed.barcodescannersample;
 
 import android.app.Application;
 import android.test.ApplicationTestCase;
